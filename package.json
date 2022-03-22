@@ -4,10 +4,10 @@
   "description": "just a test project to see users comments and also for users to create posts",
   "main": "app.js",
   "scripts": {
-    "test": "node server.js",
-    "start": "nodemon server.js",
-    "start:prod": "NODE_ENV=production nodemon server.js",
-    "debug": "ndb server.js"
+    "test": "node index.js",
+    "start": "nodemon index.js",
+    "start:prod": "NODE_ENV=production nodemon index.js",
+    "debug": "ndb index.js"
   }, 
   "author": "",
   "license": "ISC",
