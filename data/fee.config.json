@@ -1,0 +1,47 @@
+[
+    {
+        "feeId": "LNPY1221",
+        "feeCurrency": "NGN",
+        "feeLocal": "LOCL",
+        "feeEntity": "CREDIT-CARD",
+        "entityProperty": "*",
+        "feeType": "PERC",
+        "feeValue": "1.4"
+    },
+    {
+        "feeId": "LNPY1222",
+        "feeCurrency": "NGN",
+        "feeLocal": "INTL",
+        "feeEntity": "CREDIT-CARD",
+        "entityProperty": "MASTERCARD",
+        "feeType": "PERC",
+        "feeValue": "3.8"
+    },
+    {
+        "feeId": "LNPY1223",
+        "feeCurrency": "NGN",
+        "feeLocal": "INTL",
+        "feeEntity": "CREDIT-CARD",
+        "entityProperty": "*",
+        "feeType": "PERC",
+        "feeValue": "5.8"
+    },
+    {
+        "feeId": "LNPY1224",
+        "feeCurrency": "NGN",
+        "feeLocal": "LOCL",
+        "feeEntity": "USSD",
+        "entityProperty": "MTN",
+        "feeType": "FLAT_PERC",
+        "feeValue": "20:0.5"
+    },
+    {
+        "feeId": "LNPY1225",
+        "feeCurrency": "NGN",
+        "feeLocal": "LOCL",
+        "feeEntity": "USSD",
+        "entityProperty": "*",
+        "feeType": "FLAT_PERC",
+        "feeValue": "20:0.5"
+    }
+]
